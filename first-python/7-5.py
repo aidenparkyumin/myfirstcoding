@@ -1,10 +1,9 @@
 a='once'
-print(a[1])
+print(a[1]) # indexing
 print(a[-1])
 
-
 b=['t','w','i','c','e']
-print(b[2:4])
+print(b[2:4]) # slicing
 print(b[:3])
 print(b[:])
 
