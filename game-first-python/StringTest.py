@@ -1,5 +1,6 @@
-name = " Ben "
+# name = " Ben "
 
-name=name.upper().strip()
+# name=name.upper().strip()
 
-print(name)
+# print(name)
+
